@@ -21,7 +21,11 @@ This is a project used to learn about responsiveness, animations and grid displa
 
 ## Demo
 
-https://i.imgur.com/Avr6kio.mp4
+
+
+https://github.com/lucasmichels/exp_components/assets/39132280/2685afad-c990-432a-9703-ef269300ccfa
+
+
 
 
 ## Tech Stack
